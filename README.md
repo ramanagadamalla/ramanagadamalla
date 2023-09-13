@@ -20,8 +20,8 @@ WhoamI    : Student 🏫.
 Gender    : Male.
 Location  : Telangana, India.
 Hobbies   : Gaming, Coding , listening music 🎶.
-Languages : Bash,C Lang, C++, Python, NodeJS , Typescript.
-Learning  : Java, Kotlin.
+Languages : C Lang, C++, Python, NodeJS.
+Learning  : Java.
 Telegram  : @ramanagadamalla.
 ```
 
