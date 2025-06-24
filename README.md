@@ -1,6 +1,6 @@
 [![Profile views count](https://komarev.com/ghpvc/?username=ramanagadamalla)](https://github.com/ramanagadamalla)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Hello+I'm+ramana;Software+Engineer;I'm+a+developer)](https://github.com/ramanagadamalla/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Hello+I'm+ramana;a+software+engineer;I'm+a+developer)](https://github.com/ramanagadamalla/)
 
 Hello there! 👋 I'm [ramana gadamalla](https://ramanagadamalla.github.io), a passionate Software Engineer currently working at crest Data.ai. With a strong passion for coding and a background in computer science engineering, I have developed a solid foundation in software development. My dedication and enthusiasm drive me to constantly expand my skill set and stay up-to-date with the latest industry trends.
 
