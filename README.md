@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Hello+I'm+ramana;I'm+a+student;I'm+a+developer)](https://github.com/ramanagadamalla/)
 
-Hello there! 👋 I'm [ramana gadamalla](https://ramanagadamalla.github.io), a passionate computer science engineering student currently pursuing my studies in the CSE branch at IIIT Surat. With a strong passion for coding and a background in computer science engineering, I have developed a solid foundation in software development. My dedication and enthusiasm drive me to constantly expand my skill set and stay up-to-date with the latest industry trends.
+Hello there! 👋 I'm [ramana gadamalla](https://ramanagadamalla.github.io), a passionate Software Engineer currently working at crest Data.ai. With a strong passion for coding and a background in computer science engineering, I have developed a solid foundation in software development. My dedication and enthusiasm drive me to constantly expand my skill set and stay up-to-date with the latest industry trends.
 
 ## ⭐ About Me
 
@@ -16,7 +16,7 @@ Hello there! 👋 I'm [ramana gadamalla](https://ramanagadamalla.github.io), a p
 My Profile
 -----------------------------------------------------------
 Name      : gadamalla ramana .
-WhoamI    : Student 🏫.
+WhoamI    : Software Engineer 🏫.
 Gender    : Male.
 Location  : Telangana, India.
 Hobbies   : Gaming, Coding , listening music 🎶.
@@ -32,7 +32,7 @@ I'm a versatile full stack developer with hands-on experience in various technol
 
 - Bachelor of Technology (B.Tech) in Computer Science and Engineering
   - [Indian Institute of Information Technology (IIIT), Surat](https://www.google.com/search?q=IIIT+Surat&oq=IIIT+Surat&aqs=chrome..69i57j69i60l3j69i65.7945j0j7&client=ms-android-xiaomi-rev1&sourceid=chrome-mobile&ie=UTF-8)
-  - Expected Graduation: July, 2024
+  - Graduation: July, 2024
 
 
 ## 🧑‍💻 Skills
@@ -43,7 +43,7 @@ I'm a versatile full stack developer with hands-on experience in various technol
 - **Databases**: MongoDB, MySQL
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
 - **Version Control**: Git
-- **Tools**: VS Code
+- **Tools**: VS Code, Servicenow, Jira
 
 <img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs,js,css,html,bash,linux,git&perline=7" alt="My Skills"/>
 
